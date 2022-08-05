@@ -158,7 +158,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 // DO NOT CHANGE THIS. ERROR WARNING දාන්න තැනක් නැතුව මෙතන දැම්මෙ.
 global.rep = { // All Replies = 145
-    K1: '🫢හායි😁❤️',
+    Khukamu hukamuයි😁❤️',
     K2: '🤭හූයි✌️💞🫶',
     K3: '😉🫶හායි😂',
     K4: '🥴හූයි😊',
